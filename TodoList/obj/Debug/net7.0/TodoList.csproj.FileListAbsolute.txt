@@ -1,0 +1,10 @@
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/TodoList/bin/Debug/net7.0/TodoList
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/TodoList/bin/Debug/net7.0/TodoList.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/TodoList/bin/Debug/net7.0/TodoList.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/TodoList/obj/Debug/net7.0/TodoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/TodoList/obj/Debug/net7.0/TodoList.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/TodoList/obj/Debug/net7.0/TodoList.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/TodoList/obj/Debug/net7.0/TodoList.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/TodoList/obj/Debug/net7.0/TodoList.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/TodoList/obj/Debug/net7.0/refint/TodoList.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/TodoList/obj/Debug/net7.0/TodoList.pdb

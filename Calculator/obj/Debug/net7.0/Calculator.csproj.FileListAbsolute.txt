@@ -1,0 +1,14 @@
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/Calculator/bin/Debug/net7.0/Calculator
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/Calculator/obj/Debug/net7.0/ref/Calculator.dll
