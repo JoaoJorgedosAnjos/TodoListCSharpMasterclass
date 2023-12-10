@@ -63,7 +63,7 @@ void AddTodoItem()
             ShowTodoOption();
             uniqueOrNot = true;
         }
-    } while (userTodoText == "" || uniqueOrNot == false);
+    } while (!uniqueOrNot);
 }
 void RemoveTodoItem(List<string> list)
 {
