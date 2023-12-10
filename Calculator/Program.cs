@@ -11,3 +11,4 @@ string letterPressed = Console.ReadLine().ToLower();
 Services.Calculate(firstNumber,secondNumber,letterPressed);
 
 Services.exitApp();
+

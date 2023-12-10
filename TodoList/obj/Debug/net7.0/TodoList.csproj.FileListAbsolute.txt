@@ -8,3 +8,7 @@
 /Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/TodoList/obj/Debug/net7.0/TodoList.dll
 /Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/TodoList/obj/Debug/net7.0/refint/TodoList.dll
 /Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/TodoList/obj/Debug/net7.0/TodoList.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/TodoList/bin/Debug/net7.0/TodoList.deps.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/TodoList/bin/Debug/net7.0/TodoList.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/TodoList/obj/Debug/net7.0/TodoList.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/TodoList/TodoList/obj/Debug/net7.0/ref/TodoList.dll
