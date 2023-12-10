@@ -70,7 +70,7 @@ void RemoveTodoItem(List<string> list)
     if (list.Count == 0)
     {
         Console.WriteLine("No TODOs have been added yet.");
-        ShowTodoOption();
+        return;
     }
     Console.WriteLine("Select the index of the TODO you want to remove");
     SeeTodoList(todoList);
@@ -82,13 +82,14 @@ void RemoveTodoItem(List<string> list)
         isParsingSuccessful = int.TryParse(userInput, out int number);
         if (isParsingSuccessful && number <= list.Count && number > 0)
         {
-            string listValue = todoList[number - 1];
+            var indexOfTodo = number - 1;
+            string listValue = todoList[indexOfTodo];
             Console.WriteLine($"TODO removed: {listValue}");
-            todoList.RemoveAt(number -1);
+            todoList.RemoveAt(indexOfTodo);
             ShowTodoOption();
             isValid = true;
         }
-        else if (number > list.Count || number < 0) 
+        else if (number > list.Count || number < 0)
         {
             Console.WriteLine("The given index is not valid");
         }
